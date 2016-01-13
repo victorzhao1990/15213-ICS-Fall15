@@ -1,0 +1,11 @@
+Verbosity leads to unclear, inarticulate things.
+
+1 2 4 8 16 32
+
+0 629
+
+7 0
+
+5 115
+
+1 2 4 6 5 3
